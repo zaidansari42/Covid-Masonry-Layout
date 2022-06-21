@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](Capture.JPG)- Normal View ![](Capture.JPG)- Hover View
+![](Capture.JPG)- Normal View ![](Capture%202.JPG.JPG)- Hover View
 
 ### Links
 
