@@ -1,4 +1,3 @@
-
 This is a design of Masonry Grid Layout.
 
 ## Table of contents
@@ -44,12 +43,22 @@ Users should be able to:
 I learned how to create a Grid Layout with only HTML & CSS.
 
 ```html
-
+<div class="box">
+  <img src="medical-mask.png" alt="" />
+  <p>
+    If you are coughing or sneezing, wear a mask and must know how to use it and
+    dispose of it properly
+  </p>
+</div>
 ```
 
 ```css
+main.container {
+  background-color: #e91e63;
 
-
+  grid-template-columns: repeat(autofill, minmax(50%, 1fr));
+  grid-template-rows: minmax(auto, auto);
+}
 ```
 
 ## Author
